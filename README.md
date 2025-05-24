@@ -2,19 +2,6 @@
 
 This project analyzes player behavior in digital games and predicts churn (player dropout) using monthly statistics from SteamCharts. The solution is powered by a Deep Neural Network (DNN) trained on engineered features and interpreted with SHAP explainability.
 
-📂 Project Structure
-
-steam_churn_project/
-├── data/                 # Raw and processed data files
-├── src/                  # Python source files (training, evaluation, SHAP, etc.)
-├── results/              # Model results, plots, predictions
-├── presentation/         # Visuals and presentation files
-├── Final_Report.docx     # Project report
-├── Steam_Churn_Presentation_Complete.pptx
-├── Valve_Player_Data.csv
-├── requirements.txt
-└── README.md
-
 🚀 Features
 
 SteamCharts-based churn prediction
